@@ -6,7 +6,7 @@ package com.offer;
  * 输入一个链表，输出该链表中倒数第k个结点。
  */
 
-public class Leetcode_14 {
+public class Offer_14 {
     public ListNode FindKthToTail(ListNode head,int k) {
         if (k == 0)
             return null;
