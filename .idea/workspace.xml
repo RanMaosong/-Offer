@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45efc908-d166-4364-a033-77777355c360" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer_02.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_03.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/ListNode.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,7 +20,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="0">
               <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
               <folding />
             </state>
@@ -37,22 +37,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Offer_02.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Offer_02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer_02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="44">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Util.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Util.java">
+      <file leaf-file-name="Leetcode_03.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Leetcode_03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="515">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#285#294#0" expanded="true" />
+                <element signature="e#468#477#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +86,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Util.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/offer_01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer_02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_03.java" />
       </list>
     </option>
   </component>
@@ -104,7 +110,9 @@
     <option name="width" value="1484" />
     <option name="height" value="996" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -322,12 +330,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553145730743</updated>
       <workItem from="1553145747929" duration="927000" />
-      <workItem from="1553146792436" duration="1640000" />
+      <workItem from="1553146792436" duration="1936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2567000" />
+    <option name="totallyTimeSpent" value="2863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -391,7 +399,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
+        <state relative-caret-position="0">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
         </state>
@@ -413,14 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/offer_01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -431,9 +431,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer_02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="44">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Leetcode_03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#285#294#0" expanded="true" />
+            <element signature="e#468#477#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
