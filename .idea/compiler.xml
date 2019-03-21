@@ -9,7 +9,7 @@
         <module name="剑指Offer" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="剑指Offer" target="1.5" />
     </bytecodeTargetLevel>
   </component>

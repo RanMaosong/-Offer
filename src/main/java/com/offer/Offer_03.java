@@ -9,7 +9,7 @@ import java.util.List;
  * 输入一个链表，按链表值从尾到头的顺序返回一个ArrayList。
  */
 
-public class Leetcode_03 {
+public class Offer_03 {
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
         List<Integer> posetive = new ArrayList<Integer>();
         while (listNode != null) {
