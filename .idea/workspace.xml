@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45efc908-d166-4364-a033-77777355c360" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer_16.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer_17.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Offer_16.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Offer_16.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer_16.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Offer_17.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer_17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="27" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -78,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_14.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer_15.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer_16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer_17.java" />
       </list>
     </option>
   </component>
@@ -407,12 +418,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553145730743</updated>
       <workItem from="1553145747929" duration="927000" />
-      <workItem from="1553146792436" duration="14557000" />
+      <workItem from="1553146792436" duration="14790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15484000" />
+    <option name="totallyTimeSpent" value="15717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -667,7 +678,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer_16.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="27" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="29" selection-end-column="27" />
           <folding />
         </state>
       </provider>
