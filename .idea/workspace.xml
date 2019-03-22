@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45efc908-d166-4364-a033-77777355c360" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_22.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_23.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,16 +26,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Leetcode_22.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Leetcode_22.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Leetcode_22.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="154">
+              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#374#383#0" expanded="true" />
                 <element signature="e#429#439#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Leetcode_23.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Leetcode_23.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="25" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -89,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer_20.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_21.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_22.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Leetcode_23.java" />
       </list>
     </option>
   </component>
@@ -418,12 +429,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553145730743</updated>
       <workItem from="1553145747929" duration="927000" />
-      <workItem from="1553146792436" duration="21755000" />
+      <workItem from="1553146792436" duration="22822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22682000" />
+    <option name="totallyTimeSpent" value="23749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -736,13 +747,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Leetcode_22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="23" />
+        <state relative-caret-position="154">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#374#383#0" expanded="true" />
             <element signature="e#429#439#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Leetcode_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="25" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
